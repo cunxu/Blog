@@ -5,7 +5,7 @@
 
 #### Linux相关操作
  - [Linux安装之Linux mint](https://github.com/cunxu/Blog/issues/1#issue-413995564)
-
+ - [Linux初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
 
 
 #### 开发工具
