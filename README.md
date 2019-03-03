@@ -10,7 +10,12 @@
 
 #### 前端
  - [易忘的html基础](https://github.com/cunxu/Blog/issues/4#issue-416412808)
-
+ - [Ajax笔记](https://github.com/cunxu/Blog/issues/8#issue-416459375)
+ - [json笔记](https://github.com/cunxu/Blog/issues/7#issue-416458403)
+ - [重排与重绘](https://github.com/cunxu/Blog/issues/6#issue-416457653)
+ 
+#### 网络
+ - [浏览器缓存](https://github.com/cunxu/Blog/issues/5#issue-416455179)
 
 
 #### 交流
