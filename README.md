@@ -16,6 +16,12 @@
  
 #### 网络
  - [浏览器缓存](https://github.com/cunxu/Blog/issues/5#issue-416455179)
+ 
+#### 正则文章推荐
+ - [可能是最好的正则表达式的教程笔记了吧...](https://juejin.im/post/5b5db5b8e51d4519155720d2)
+ - [Regex专题：引擎](https://veedrin.com/post/5bd0651e3227cc3b9ee41f37)
+ - [Regex专题：语法](https://veedrin.com/post/5bcdbe9f3227cc3b9ee41edc)
+ - [正则表达式语言 - 快速参考](https://docs.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expression-language-quick-reference)
 
 
 #### 交流
