@@ -1,6 +1,5 @@
 ### 临渊羡鱼，不如退而结网
 #### 前端进阶系列
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 
 #### Linux相关操作
