@@ -22,6 +22,8 @@
  - [Regex专题：语法](https://veedrin.com/post/5bcdbe9f3227cc3b9ee41edc)
  - [正则表达式语言 - 快速参考](https://docs.microsoft.com/zh-cn/dotnet/standard/base-types/regular-expression-language-quick-reference)
 
+#### 开发工具
+ - [chrome插件推荐](https://github.com/cunxu/Blog/issues/10#issue-419470936)
 #### 读书笔记
  - 
 #### 交流
