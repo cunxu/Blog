@@ -26,6 +26,8 @@
 #### 开发工具
  - [chrome插件推荐](https://github.com/cunxu/Blog/issues/10#issue-419470936)
  - [electron-ssr各版本下载](https://github.com/qingshuisiyuan/electron-ssr-backup/releases)
+ - [SSR windows客户端](http://oss.cun-xu.cn//software/ShadowsocksR%20v4.7.0%20win.7z)
+ 
 #### 读书笔记
  - 
 #### 交流
