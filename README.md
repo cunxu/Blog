@@ -6,6 +6,7 @@
  - [Linux安装之Linux mint](https://github.com/cunxu/Blog/issues/1#issue-413995564)
  - [Linux初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
  - [Linux安装之Deepin Linux](https://github.com/cunxu/Blog/issues/3#issue-416398384)
+ - [zsh安装及优化](https://github.com/cunxu/Blog/issues/11#issue-477680554)
 
 #### 前端
  - [易忘的html基础](https://github.com/cunxu/Blog/issues/4#issue-416412808)
@@ -24,6 +25,7 @@
 
 #### 开发工具
  - [chrome插件推荐](https://github.com/cunxu/Blog/issues/10#issue-419470936)
+ - [electron-ssr各版本下载](https://github.com/qingshuisiyuan/electron-ssr-backup/releases)
 #### 读书笔记
  - 
 #### 交流
