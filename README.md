@@ -6,7 +6,6 @@
 
 #### Linux相关操作
  - [Linux安装之Linux mint](https://github.com/cunxu/Blog/issues/1#issue-413995564)
- - [Linux mint初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
  - [Linux安装之Deepin Linux](https://github.com/cunxu/Blog/issues/3#issue-416398384)
  - [zsh安装及优化](https://github.com/cunxu/Blog/issues/11#issue-477680554)
 
@@ -29,9 +28,12 @@
  - [electron-ssr各版本下载](https://github.com/qingshuisiyuan/electron-ssr-backup/releases)
  - [SSR windows客户端](http://oss.cun-xu.cn//software/ShadowsocksR%20v4.7.0%20win.7z)
  - [Windows 常用软件](https://github.com/cunxu/Blog/issues/13#issue-478224088)
+ - [Linux mint初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
  
  
 #### 交流
+
+**临渊羡鱼，不如退而结网**
 我是Rocken，一个总在摸索的小学生。让我们一起走进前端进阶的世界，在寒冬中生存下去。
 如果你想定期获得热门技术文章和Rocken个人心得，关注公众号：`Rocken小黑屋` 即可
 <div align=center><img src="http://oss.cun-xu.cn/image/wechat/QR.png"/></div>
