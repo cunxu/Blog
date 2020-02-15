@@ -1,4 +1,4 @@
-![](http://oss.cun-xu.cn//image/blog.jpg)
+![](https://pbs.twimg.com/media/EQNmzuLU8AA47OE?format=jpg&name=large)
 
 ### 臨淵羨魚，不如退而結網
 #### 前端进阶系列
