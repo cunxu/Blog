@@ -36,4 +36,4 @@
 **临渊羡鱼，不如退而结网**
 我是Rocken，一个总在摸索的小学生。让我们一起走进前端进阶的世界，在寒冬中生存下去。
 如果你想定期获得热门技术文章和Rocken个人心得，关注公众号：`Rocken小黑屋` 即可
-<div align=center><img src="http://oss.cun-xu.cn/image/wechat/QR.png"/></div>
+<div align=center><img src="https://oss.cun-xu.cn/image/wechat/QR.png"/></div>
