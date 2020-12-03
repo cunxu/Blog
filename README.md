@@ -1,3 +1,5 @@
+![](https://rocken.coding.net/p/Gallery/d/Gallery/git/raw/master/BLOG/%E6%8F%92%E5%9B%BE/86016044_p0_master1200.jpg)
+
 ### 臨淵羨魚，不如退而結網
 #### 前端进阶系列
 
@@ -28,10 +30,3 @@
  - [Windows 常用软件](https://github.com/cunxu/Blog/issues/13#issue-478224088)
  - [Linux mint初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
  
- 
-#### 交流
-
-**临渊羡鱼，不如退而结网**
-我是Rocken，一个总在摸索的小学生。让我们一起走进前端进阶的世界，在寒冬中生存下去。
-如果你想定期获得热门技术文章和Rocken个人心得，关注公众号：`Rocken小黑屋` 即可
-<div align=center><img src="https://oss.cun-xu.cn/image/wechat/QR.png"/></div>
