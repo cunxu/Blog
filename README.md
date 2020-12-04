@@ -1,5 +1,5 @@
 
-![](https://rocken.coding.net/p/Gallery/d/Gallery/git/raw/master/BLOG/%E6%8F%92%E5%9B%BE/86016044_p0_master1200.jpg)
+![master1200.jpg](https://xn--wcso9o.xn--fiqs8s/images/master1200.jpg)
 
 ### 臨淵羨魚，不如退而結網
 #### 前端进阶系列
