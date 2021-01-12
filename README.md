@@ -1,5 +1,5 @@
 
-![master1200.jpg](https://xn--wcso9o.xn--fiqs8s/images/master1200.jpg)
+![master1200.jpg](https://rocken.coding.net/p/Gallery/d/Gallery/git/raw/master/BLOG/shorthairgirl.jpg)
 
 ### 臨淵羨魚，不如退而結網
 #### 前端进阶系列
@@ -31,3 +31,5 @@
  - [Windows 常用软件](https://github.com/cunxu/Blog/issues/13#issue-478224088)
  - [Linux mint初级优化](https://github.com/cunxu/Blog/issues/2#issue-416370522)
  
+### 臨淵羨魚，不如退而結網
+
