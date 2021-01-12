@@ -5,4 +5,4 @@
 
 
 
-![wechat](https://rocken.coding.net/p/Gallery/d/Gallery/git/raw/master/BLOG/wechat.png)
+![wechat.png](https://xn--wcso9o.xn--fiqs8s/images/wechat.png)
